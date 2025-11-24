@@ -26,5 +26,5 @@ Evaluated model performance using R² Score, Mean Absolute Error (MAE), and RMSE
 
 Visualized model performance and selected the best model based on R² Score.
 
-## 📈 Result
+##  Result
 The final model achieved a strong R² score and demonstrated consistent performance on the test set. This project serves as a solid foundation for building a used-car price prediction tool or web app.
